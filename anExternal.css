@@ -1,0 +1,49 @@
+.pic2 {
+    height:50px;
+    width:50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.p1 {
+    font-size: 16px;
+}
+
+.p2 {
+    font-size: 20px;
+}
+
+h1 {
+    border: 2px solid pink;
+    border-radius: 25px;
+}
+
+h2 {
+    border-style: dotted;
+    color: orange;
+}
+
+.pic3 {
+    width:100%;
+}
+
+.pic1 {
+    height:50px;
+    width:50px;
+    float:right;
+}
+
+.container {
+    position: absolute;
+    text-align: center;
+    color: white;
+}
+
+.eminem {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    font-size:10px;
+}
